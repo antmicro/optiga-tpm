@@ -577,7 +577,50 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/SPI.DI": [
+        "50Ohm-se"
+      ],
+      "/SPI.DO": [
+        "50Ohm-se"
+      ],
+      "/SPI.MISO": [
+        "50Ohm-se"
+      ],
+      "/SPI.MISO_R": [
+        "50Ohm-se"
+      ],
+      "/SPI.MOSI": [
+        "50Ohm-se"
+      ],
+      "/SPI.MOSI_R": [
+        "50Ohm-se"
+      ],
+      "/SPI.SCK": [
+        "50Ohm-se"
+      ],
+      "/SPI.SCLK": [
+        "50Ohm-se"
+      ],
+      "/SPI.SCLK_R": [
+        "50Ohm-se"
+      ],
+      "/SPI.~{CS0}": [
+        "50Ohm-se"
+      ],
+      "/SPI.~{CS1}": [
+        "50Ohm-se"
+      ],
+      "/SPI.~{CS}": [
+        "50Ohm-se"
+      ],
+      "/SPI.~{CS}_R": [
+        "50Ohm-se"
+      ],
+      "/SPI{SPI}": [
+        "50Ohm-se"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -671,12 +714,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -826,7 +881,15 @@
         "DI",
         "SCK",
         "~{CS0}",
-        "~{CS1}"
+        "~{CS1}",
+        "SCLK_R",
+        "~{CS}_R",
+        "MISO_R",
+        "MOSI_R",
+        "~{CS}",
+        "SCLK",
+        "MISO",
+        "MOSI"
       ],
       "STBY_1V8": [
         "RDY",
@@ -903,7 +966,7 @@
         "uuid": "14d39343-e453-4480-a79e-bc08955afca3"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R1-10,C1-5,#PWR1-3,#PWR801-810,J1,J801,U1",
     "variants": []
   },
   "sheets": [
