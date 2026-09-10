@@ -4001,16 +4001,6 @@
 		)
 		(uuid "9da334cc-7772-4aa2-ae62-5e96a7def7ef")
 	)
-	(text "GPIO max current = 1mA\nDriving LED needs a transistor"
-		(exclude_from_sim no)
-		(at 227.838 175.514 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d9c9b180-5682-40b0-a4d4-7386c70a7400")
-	)
 	(junction
 		(at 303.53 124.46)
 		(diameter 0)
