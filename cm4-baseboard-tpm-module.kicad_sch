@@ -2075,6 +2075,137 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "antmicroMechanicalParts:antmicro_logo"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "N"
+				(at 15.24 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "antmicro_logo"
+				(at 15.24 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "antmicro-footprints:antmicro-logo"
+				(at 15.24 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 15.24 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Description" "Mechanical part"
+				(at 15.24 -22.86 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" ""
+				(at 15.24 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 15.24 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 15.24 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(symbol "antmicro_logo_1_1"
+				(text "Logo"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.15)
+						)
+						(justify left bottom)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "antmicroResistors0402:R_0R_0402"
 			(pin_numbers
 				(hide yes)
@@ -2852,16 +2983,6 @@
 		)
 		(uuid "9da334cc-7772-4aa2-ae62-5e96a7def7ef")
 	)
-	(text "Connect to any GPIO for easier routing"
-		(exclude_from_sim no)
-		(at 187.452 161.036 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "9fab4e0e-7b64-4bd1-b745-5c07022fe1c7")
-	)
 	(junction
 		(at 303.53 124.46)
 		(diameter 0)
@@ -3068,16 +3189,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 161.29) (xy 160.02 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b29f7d2-7800-4c4d-affa-9ea65d30862e")
-	)
-	(wire
-		(pts
 			(xy 209.55 163.83) (xy 222.25 163.83)
 		)
 		(stroke
@@ -3155,16 +3266,6 @@
 			(type default)
 		)
 		(uuid "2d96d657-5725-4bd5-9956-6bed894b241c")
-	)
-	(wire
-		(pts
-			(xy 142.24 158.75) (xy 160.02 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2db6a067-8f01-4e30-876b-28fecd57a9e0")
 	)
 	(bus
 		(pts
@@ -3288,6 +3389,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 161.29) (xy 160.02 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d81a0c3-48a5-4866-9c9a-d307776a4e82")
+	)
+	(wire
+		(pts
 			(xy 142.24 135.89) (xy 160.02 135.89)
 		)
 		(stroke
@@ -3315,6 +3426,16 @@
 			(type default)
 		)
 		(uuid "518073e2-b351-47e8-a9e2-27fc584a343f")
+	)
+	(wire
+		(pts
+			(xy 142.24 158.75) (xy 160.02 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52758cb2-2595-4b01-9979-0664eb05e166")
 	)
 	(wire
 		(pts
@@ -3395,16 +3516,6 @@
 			(type default)
 		)
 		(uuid "5b0fb886-a24b-4cc1-84cb-9822145ecf1f")
-	)
-	(wire
-		(pts
-			(xy 142.24 156.21) (xy 160.02 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b153b05-64ab-4949-8b8a-fcc66b044d9d")
 	)
 	(wire
 		(pts
@@ -3498,6 +3609,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 153.67) (xy 160.02 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722e1d8e-4510-40ab-9e1e-27fb0f7c7f9d")
+	)
+	(wire
+		(pts
 			(xy 113.03 163.83) (xy 130.81 163.83)
 		)
 		(stroke
@@ -3505,16 +3626,6 @@
 			(type default)
 		)
 		(uuid "75947891-d382-4de7-9483-cb7ca9d88c57")
-	)
-	(wire
-		(pts
-			(xy 142.24 153.67) (xy 160.02 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "799f9c62-8f29-4c3e-9f7c-d7aacd5588a2")
 	)
 	(wire
 		(pts
@@ -3775,6 +3886,16 @@
 			(type default)
 		)
 		(uuid "bc12c2cf-7559-42cb-a2ec-2d52bf1b5dbb")
+	)
+	(wire
+		(pts
+			(xy 142.24 156.21) (xy 160.02 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf17df68-0756-4610-8153-943331da44dd")
 	)
 	(wire
 		(pts
@@ -4066,6 +4187,16 @@
 		)
 		(uuid "09c3da9c-185b-437c-b87e-2b89375ed50b")
 	)
+	(label "GPIO_00"
+		(at 160.02 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17b638ec-5589-45c0-ab0c-1222a7a57149")
+	)
 	(label "SPI.SCLK_R"
 		(at 234.95 140.97 0)
 		(effects
@@ -4126,16 +4257,6 @@
 		)
 		(uuid "309a1107-efc1-453c-b927-c1c59bde04c0")
 	)
-	(label "GPIO.14/RXD0"
-		(at 160.02 130.81 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3650bf0c-5064-4b60-9cd0-a22ef45c5343")
-	)
 	(label "GPIO.24"
 		(at 160.02 143.51 180)
 		(effects
@@ -4146,16 +4267,6 @@
 		)
 		(uuid "3d7f3878-13ea-405f-aa85-0db646e52792")
 	)
-	(label "GPIO.20"
-		(at 160.02 168.91 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4a4b3d13-e7dc-4c57-a526-f1e6a56c105e")
-	)
 	(label "GPIO.25"
 		(at 160.02 148.59 180)
 		(effects
@@ -4165,16 +4276,6 @@
 			(justify right bottom)
 		)
 		(uuid "4de71c45-fedf-46e3-8309-76f2941695dc")
-	)
-	(label "SPI.SCLK"
-		(at 113.03 146.05 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "54ab60e6-36b0-437f-bcf9-b9c1e072cb6a")
 	)
 	(label "~{RST}_R"
 		(at 234.95 157.48 0)
@@ -4226,16 +4327,6 @@
 		)
 		(uuid "61190f1e-2c50-4e13-b277-51b50befff1d")
 	)
-	(label "GPIO.15/TXD0"
-		(at 160.02 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "629bc0b2-e037-45c9-bcd3-80d96a3cdb69")
-	)
 	(label "GPIO_02"
 		(at 209.55 168.91 0)
 		(effects
@@ -4265,6 +4356,16 @@
 			(justify right bottom)
 		)
 		(uuid "6867a58b-1001-45a0-b05d-3cd369b1ba65")
+	)
+	(label "GPIO_02"
+		(at 160.02 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f4c28bc-333e-4d79-9689-29bfe48a5632")
 	)
 	(label "GPIO_00_R"
 		(at 234.95 163.83 0)
@@ -4296,15 +4397,15 @@
 		)
 		(uuid "8034eca5-eabc-40ff-abaa-25f2fa415985")
 	)
-	(label "GPIO.21"
-		(at 160.02 171.45 180)
+	(label "GPIO_01"
+		(at 160.02 168.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "81f742a5-1265-43e4-b935-7b69f9143341")
+		(uuid "84b5945d-6675-4199-9174-abf45a7c6985")
 	)
 	(label "GPIO.AIN0"
 		(at 160.02 158.75 180)
@@ -4346,16 +4447,6 @@
 		)
 		(uuid "8f5fbc1a-9024-402c-afab-3abdf06e994e")
 	)
-	(label "GPIO.16"
-		(at 160.02 166.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "96d6ad94-fc3d-48d0-8093-11fa665c8893")
-	)
 	(label "GPIO.1{slash}SCL0"
 		(at 160.02 156.21 180)
 		(effects
@@ -4386,6 +4477,16 @@
 		)
 		(uuid "a88bad46-6aa9-400f-8d33-3164b0aad2a0")
 	)
+	(label "~{RST}"
+		(at 160.02 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b02be4a5-30ee-4cd9-b3ed-b3fe74f77e05")
+	)
 	(label "GPIO.7"
 		(at 160.02 153.67 180)
 		(effects
@@ -4395,6 +4496,16 @@
 			(justify right bottom)
 		)
 		(uuid "b18fd1c6-a4a3-40d9-b609-7fad3cc093a0")
+	)
+	(label "~{PIRQ}"
+		(at 160.02 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b3f46634-4cab-4429-b120-a6a15f1ad6e4")
 	)
 	(label "~{PIRQ}_R"
 		(at 234.95 154.94 0)
@@ -4415,6 +4526,16 @@
 			(justify right bottom)
 		)
 		(uuid "bad7aeee-8c6f-4a67-a04d-bbcec70eb532")
+	)
+	(label "SPI.MOSI"
+		(at 113.03 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb16c0c2-5a97-4c9f-a6c6-5a99f9b9b7f4")
 	)
 	(label "GPIO.18"
 		(at 160.02 135.89 180)
@@ -6438,6 +6559,138 @@
 			(project "cm4-baseboard-tpm-module"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroMechanicalParts:antmicro_logo")
+		(at 308.61 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f8a2e4c-6b31-4362-b638-5b6c6130e6df")
+		(property "Reference" "N1001"
+			(at 314.96 172.0062 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "antmicro_logo"
+			(at 314.96 174.5462 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:antmicro-logo_scaled_12mm"
+			(at 323.85 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Mechanical part"
+			(at 323.85 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 308.61 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 323.85 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 323.85 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 323.85 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "N1001")
 					(unit 1)
 				)
 			)
