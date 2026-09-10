@@ -4333,6 +4333,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 172.72) (xy 328.93 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "317c62b1-0d0e-45ba-bb20-e5539ef3cf23")
+	)
+	(wire
+		(pts
 			(xy 227.33 166.37) (xy 247.65 166.37)
 		)
 		(stroke
@@ -4410,6 +4420,16 @@
 			(type default)
 		)
 		(uuid "47a8a525-9e73-4942-a708-e53c264fe31c")
+	)
+	(wire
+		(pts
+			(xy 313.69 182.88) (xy 328.93 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4839322c-4831-408b-b5d6-8e76d012268b")
 	)
 	(wire
 		(pts
@@ -4623,6 +4643,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 185.42) (xy 328.93 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68f14b8d-76a4-4895-8e80-ec86419b8cef")
+	)
+	(wire
+		(pts
 			(xy 293.37 133.35) (xy 303.53 133.35)
 		)
 		(stroke
@@ -4823,6 +4853,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 187.96) (xy 328.93 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a50a5483-d7a3-488f-b467-c314e4f63e21")
+	)
+	(wire
+		(pts
 			(xy 281.94 124.46) (xy 281.94 140.97)
 		)
 		(stroke
@@ -4963,6 +5003,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 190.5) (xy 328.93 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6cd2530-7577-4a32-938c-d812b29fa597")
+	)
+	(wire
+		(pts
 			(xy 142.24 166.37) (xy 160.02 166.37)
 		)
 		(stroke
@@ -4980,6 +5030,16 @@
 			(type default)
 		)
 		(uuid "c7b6a9bf-4e5b-4cd3-b6bc-620ca77d49fe")
+	)
+	(wire
+		(pts
+			(xy 313.69 180.34) (xy 328.93 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c96c6793-a0ff-42e8-ae32-2016c5cd7271")
 	)
 	(wire
 		(pts
@@ -5030,6 +5090,16 @@
 			(type default)
 		)
 		(uuid "d32dc21e-eba5-40bb-aa82-88cb7bf72d6f")
+	)
+	(wire
+		(pts
+			(xy 313.69 175.26) (xy 328.93 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6953d99-9ffd-4886-b0d6-048be429e9c7")
 	)
 	(wire
 		(pts
@@ -5163,6 +5233,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 177.8) (xy 328.93 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3975fa6-af54-4ac1-a95f-0dc474e7c77f")
+	)
+	(wire
+		(pts
 			(xy 280.67 160.02) (xy 280.67 168.91)
 		)
 		(stroke
@@ -5230,6 +5310,16 @@
 			(type default)
 		)
 		(uuid "fca3e772-66f9-4c30-96cd-569382ea6c8e")
+	)
+	(wire
+		(pts
+			(xy 313.69 193.04) (xy 328.93 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe5b16e8-55d0-4584-a6de-5b7a5d0e1872")
 	)
 	(wire
 		(pts
@@ -5321,6 +5411,16 @@
 		)
 		(uuid "29ae6392-0d3c-4954-99a8-161ee89dcaf6")
 	)
+	(label "~{PIRQ}_R"
+		(at 328.93 182.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2a14b8cc-fa99-45c8-b550-db209680db16")
+	)
 	(label "SPI.~{CS}"
 		(at 209.55 143.51 0)
 		(effects
@@ -5330,6 +5430,16 @@
 			(justify left bottom)
 		)
 		(uuid "309a1107-efc1-453c-b927-c1c59bde04c0")
+	)
+	(label "GPIO_02_R"
+		(at 328.93 193.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35d11beb-fabc-4273-bb60-06d2ed3ecfd7")
 	)
 	(label "GPIO.24"
 		(at 160.02 143.51 180)
@@ -5350,6 +5460,16 @@
 			(justify right bottom)
 		)
 		(uuid "4de71c45-fedf-46e3-8309-76f2941695dc")
+	)
+	(label "GPIO_01_R"
+		(at 328.93 190.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "56e7897b-30bc-492b-ac9b-c7909a780412")
 	)
 	(label "~{RST}_R"
 		(at 234.95 157.48 0)
@@ -5561,6 +5681,16 @@
 		)
 		(uuid "b02be4a5-30ee-4cd9-b3ed-b3fe74f77e05")
 	)
+	(label "SPI.~{CS}_R"
+		(at 328.93 175.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b06d63d0-61b1-41a3-81f7-4001529a9360")
+	)
 	(label "GPIO.7"
 		(at 160.02 153.67 180)
 		(effects
@@ -5661,6 +5791,16 @@
 		)
 		(uuid "ca12b264-3778-4535-a785-5acecd8e1464")
 	)
+	(label "SPI.MISO_R"
+		(at 328.93 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cca36a65-fee4-47ed-877b-e1ece3092de5")
+	)
 	(label "GPIO.12/RXD5"
 		(at 160.02 161.29 180)
 		(effects
@@ -5670,6 +5810,26 @@
 			(justify right bottom)
 		)
 		(uuid "cca4dbcf-1be4-49e2-8e83-f6b364ea116a")
+	)
+	(label "~{RST}_R"
+		(at 328.93 185.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d1f91cee-5f15-48cd-99cc-e5f24a7cd92f")
+	)
+	(label "SPI.MOSI_R"
+		(at 328.93 180.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d8bb8629-bcb9-46af-a35c-6c40d923757e")
 	)
 	(label "SPI.MISO_R"
 		(at 234.95 146.05 0)
@@ -5740,6 +5900,26 @@
 			(justify left bottom)
 		)
 		(uuid "f4e73ba8-656d-40a6-a9d9-7b560c41de6a")
+	)
+	(label "SPI.SCLK_R"
+		(at 328.93 172.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb9af706-af21-4413-b6de-56ecf0c4b437")
+	)
+	(label "GPIO_00_R"
+		(at 328.93 187.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ffecf809-f327-4bb4-94b3-77b5b4e79f84")
 	)
 	(netclass_flag ""
 		(length 2.54)
@@ -6232,6 +6412,143 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 187.96 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "26899aa8-0d75-4f90-9ca0-14a922a764cb")
+		(property "Reference" "TP9"
+			(at 307.086 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "39326de6-2ee7-4aec-b761-f8164a1f9a88")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroB2BConnectors:Plug_Samtec_ERM5_2x20_ERM5-020-05.0-L-DV-K-TR")
 		(at 130.81 123.19 0)
 		(unit 1)
@@ -6497,7 +6814,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:MP_NPTH_Drill3.2mm")
-		(at 327.66 170.18 0)
+		(at 359.41 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6508,7 +6825,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d92548c-fce7-4ee9-86e1-4b9048121b10")
 		(property "Reference" "MP1"
-			(at 331.47 168.91 0)
+			(at 363.22 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6520,7 +6837,7 @@
 			)
 		)
 		(property "Value" "MP_NPTH_Drill3.2mm"
-			(at 331.47 171.45 0)
+			(at 363.22 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6532,7 +6849,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:MP_NPTH_Drill3.2mm"
-			(at 342.9 180.34 0)
+			(at 374.65 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6545,7 +6862,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 344.5 185.75 0)
+			(at 376.25 187.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6558,7 +6875,7 @@
 			)
 		)
 		(property "Description" "Mechanical part"
-			(at 342.9 187.96 0)
+			(at 374.65 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6570,7 +6887,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 342.9 182.88 0)
+			(at 374.65 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6583,7 +6900,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 342.9 185.42 0)
+			(at 374.65 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7445,6 +7762,143 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 175.26 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "57038aac-a608-4571-bb73-847da2e74ef7")
+		(property "Reference" "TP4"
+			(at 307.34 175.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "937fc560-3ddc-467c-84ed-f57daa7060bf")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:+3V3")
 		(at 332.74 121.92 0)
 		(mirror y)
@@ -7556,8 +8010,8 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroFiducialMarks:Fiducial_1mm_Mask2mm")
-		(at 327.66 184.15 0)
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 190.5 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7565,10 +8019,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6eba9ebb-1176-42bf-a77e-a804fef053f4")
-		(property "Reference" "FD1"
-			(at 331.47 182.88 0)
+		(uuid "5ce70195-bbdb-43c3-94aa-73f8e1220b6d")
+		(property "Reference" "TP10"
+			(at 307.34 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7576,11 +8029,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Fiducial_1mm_Mask2mm"
-			(at 331.47 185.42 0)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 186.69 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7588,11 +8041,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Fiducial_1mm_Mask2mm"
-			(at 336.55 189.23 0)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7605,7 +8058,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 336.88 194.64 0)
+			(at 295.91 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7617,8 +8070,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" "Fiducial mask"
-			(at 336.88 197.18 0)
+		(property "Description" "SMT test point"
+			(at 302.895 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7629,8 +8082,34 @@
 				(justify left bottom)
 			)
 		)
+		(property "MPN" ""
+			(at 302.895 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "Author" "Antmicro"
-			(at 336.55 191.77 0)
+			(at 303.53 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7643,7 +8122,256 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 336.55 194.31 0)
+			(at 303.53 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a9c3db5b-fba4-4d23-a231-61b220c7719e")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 177.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6e15ca52-58f2-408c-a7c1-16a6f15651d8")
+		(property "Reference" "TP5"
+			(at 307.086 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "5817625e-3adb-4eb4-ba22-3243610da178")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroFiducialMarks:Fiducial_1mm_Mask2mm")
+		(at 359.41 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6eba9ebb-1176-42bf-a77e-a804fef053f4")
+		(property "Reference" "FD1"
+			(at 363.22 184.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial_1mm_Mask2mm"
+			(at 363.22 186.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:Fiducial_1mm_Mask2mm"
+			(at 368.3 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 368.63 195.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Fiducial mask"
+			(at 368.63 198.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 368.3 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 368.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7805,7 +8533,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:MP_NPTH_Drill3.2mm")
-		(at 327.66 176.53 0)
+		(at 359.41 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7816,7 +8544,7 @@
 		(fields_autoplaced yes)
 		(uuid "75797df8-5d80-49d2-a2ac-381802e5b5fc")
 		(property "Reference" "MP2"
-			(at 331.47 175.26 0)
+			(at 363.22 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7828,7 +8556,7 @@
 			)
 		)
 		(property "Value" "MP_NPTH_Drill3.2mm"
-			(at 331.47 177.8 0)
+			(at 363.22 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7840,7 +8568,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:MP_NPTH_Drill3.2mm"
-			(at 342.9 186.69 0)
+			(at 374.65 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7853,7 +8581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 344.5 192.1 0)
+			(at 376.25 193.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7866,7 +8594,7 @@
 			)
 		)
 		(property "Description" "Mechanical part"
-			(at 342.9 194.31 0)
+			(at 374.65 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7878,7 +8606,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 342.9 189.23 0)
+			(at 374.65 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7891,7 +8619,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 342.9 191.77 0)
+			(at 374.65 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7907,6 +8635,143 @@
 			(project "cm4-baseboard-tpm-module"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "MP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 172.72 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7a62dac3-0c71-42a8-89d6-89986fd1e7ba")
+		(property "Reference" "TP3"
+			(at 307.086 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "eb0b753f-b2ac-45ad-9575-88e22ba11519")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -8369,7 +9234,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:oshw_logo")
-		(at 300.99 177.8 0)
+		(at 334.01 179.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8380,7 +9245,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b6a3cae-c389-4c13-adb4-e76009d2a4fc")
 		(property "Reference" "N2"
-			(at 307.34 175.8162 0)
+			(at 340.36 177.0862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8392,7 +9257,7 @@
 			)
 		)
 		(property "Value" "oshw_logo"
-			(at 307.34 178.3562 0)
+			(at 340.36 179.6262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8404,7 +9269,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:oshw-logo"
-			(at 316.23 187.96 0)
+			(at 349.25 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8417,7 +9282,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 190.5 0)
+			(at 349.25 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8430,7 +9295,7 @@
 			)
 		)
 		(property "Description" "Mechanical part"
-			(at 316.23 200.66 0)
+			(at 349.25 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8442,7 +9307,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 316.23 193.04 0)
+			(at 349.25 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8455,7 +9320,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 316.23 195.58 0)
+			(at 349.25 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8468,7 +9333,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 300.99 177.8 0)
+			(at 334.01 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8478,7 +9343,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 316.23 198.12 0)
+			(at 349.25 199.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8500,8 +9365,8 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:antmicro_logo")
-		(at 300.99 171.45 0)
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 180.34 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8509,10 +9374,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f8a2e4c-6b31-4362-b638-5b6c6130e6df")
-		(property "Reference" "N1"
-			(at 307.34 169.4662 0)
+		(uuid "8efdaa55-c264-410c-8a53-fd0657b28afb")
+		(property "Reference" "TP6"
+			(at 307.34 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8520,11 +9384,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "antmicro_logo"
-			(at 307.34 172.0062 0)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 176.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8532,11 +9396,11 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:antmicro-logo_scaled_12mm"
-			(at 316.23 181.61 0)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8549,7 +9413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 184.15 0)
+			(at 295.91 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8561,8 +9425,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" "Mechanical part"
-			(at 316.23 194.31 0)
+		(property "Description" "SMT test point"
+			(at 302.895 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8574,17 +9438,20 @@
 			)
 		)
 		(property "MPN" ""
-			(at 300.99 171.45 0)
+			(at 302.895 168.91 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 			)
 		)
 		(property "Manufacturer" ""
-			(at 316.23 191.77 0)
+			(at 302.895 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8597,7 +9464,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 316.23 186.69 0)
+			(at 303.53 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8610,7 +9477,279 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 316.23 189.23 0)
+			(at 303.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "9fa1f874-122a-4103-98bb-57b94b3ff621")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 185.42 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "90488d87-3d50-490d-aa09-0826faa61cd5")
+		(property "Reference" "TP8"
+			(at 307.34 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "efd4c4d7-eac7-429a-b8d6-4f005186a1b6")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroMechanicalParts:antmicro_logo")
+		(at 334.01 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f8a2e4c-6b31-4362-b638-5b6c6130e6df")
+		(property "Reference" "N1"
+			(at 340.36 170.7362 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "antmicro_logo"
+			(at 340.36 173.2762 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:antmicro-logo_scaled_12mm"
+			(at 349.25 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Mechanical part"
+			(at 349.25 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 334.01 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 349.25 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 349.25 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 349.25 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9662,7 +10801,7 @@
 	)
 	(symbol
 		(lib_id "antmicroFiducialMarks:Fiducial_1mm_Mask2mm")
-		(at 327.66 190.5 0)
+		(at 359.41 191.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9673,7 +10812,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8bf9d1f-18d7-49f5-a010-9ed748e0a05b")
 		(property "Reference" "FD2"
-			(at 331.47 189.23 0)
+			(at 363.22 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9685,7 +10824,7 @@
 			)
 		)
 		(property "Value" "Fiducial_1mm_Mask2mm"
-			(at 331.47 191.77 0)
+			(at 363.22 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9697,7 +10836,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:Fiducial_1mm_Mask2mm"
-			(at 336.55 195.58 0)
+			(at 368.3 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9710,7 +10849,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 336.88 200.99 0)
+			(at 368.63 202.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9723,7 +10862,7 @@
 			)
 		)
 		(property "Description" "Fiducial mask"
-			(at 336.88 203.53 0)
+			(at 368.63 204.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9735,7 +10874,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 336.55 198.12 0)
+			(at 368.3 199.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9748,7 +10887,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 336.55 200.66 0)
+			(at 368.3 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9875,6 +11014,143 @@
 			(project "cm4-baseboard-tpm-module"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 182.88 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d22731d3-4d4b-4794-b401-c8a84ccc25e8")
+		(property "Reference" "TP7"
+			(at 307.086 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a38020c0-e075-4109-b348-cf6e5d981671")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -10229,6 +11505,143 @@
 			(project "cm4-baseboard-tpm-module"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_Pad0.75mm_Drill0.2mm")
+		(at 313.69 193.04 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e3db9ca8-32ef-4daa-8017-c3c2c2b11d58")
+		(property "Reference" "TP11"
+			(at 307.34 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_Pad0.75mm_Drill0.2mm"
+			(at 303.53 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 295.91 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 302.895 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 302.895 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 302.895 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 303.53 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 303.53 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "3e6cdd14-fa98-4e02-9d8c-40d81d1325c3")
+		)
+		(instances
+			(project "cm4-baseboard-tpm-module"
+				(path "/14d39343-e453-4480-a79e-bc08955afca3"
+					(reference "TP11")
 					(unit 1)
 				)
 			)
