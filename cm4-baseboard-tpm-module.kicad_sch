@@ -6566,7 +6566,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:antmicro_logo")
-		(at 308.61 173.99 0)
+		(at 300.99 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6577,7 +6577,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f8a2e4c-6b31-4362-b638-5b6c6130e6df")
 		(property "Reference" "N1001"
-			(at 314.96 172.0062 0)
+			(at 307.34 169.4662 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6589,7 +6589,7 @@
 			)
 		)
 		(property "Value" "antmicro_logo"
-			(at 314.96 174.5462 0)
+			(at 307.34 172.0062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6601,7 +6601,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:antmicro-logo_scaled_12mm"
-			(at 323.85 184.15 0)
+			(at 316.23 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6614,7 +6614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 186.69 0)
+			(at 316.23 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6627,7 +6627,7 @@
 			)
 		)
 		(property "Description" "Mechanical part"
-			(at 323.85 196.85 0)
+			(at 316.23 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6639,7 +6639,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 308.61 173.99 0)
+			(at 300.99 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6649,7 +6649,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 323.85 194.31 0)
+			(at 316.23 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6662,7 +6662,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 323.85 189.23 0)
+			(at 316.23 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6675,7 +6675,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 323.85 191.77 0)
+			(at 316.23 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
