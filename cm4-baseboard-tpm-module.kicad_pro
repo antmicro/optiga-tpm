@@ -82,19 +82,19 @@
           ""
         ],
         [
-          "courtyards_overlap|338766911|235246743|c18b9354-e752-46ca-a4ff-c32e47a8bad0|c19c021e-af84-4b69-bd74-4f342df6ee34",
+          "courtyards_overlap|338716911|235246743|c18b9354-e752-46ca-a4ff-c32e47a8bad0|f2b144bb-2b26-4682-a250-e12073db9d33",
           ""
         ],
         [
-          "courtyards_overlap|339361778|234513000|7e5cf233-974a-406e-8039-03f871b63510|c18b9354-e752-46ca-a4ff-c32e47a8bad0",
+          "courtyards_overlap|339318680|234513000|8750c894-3ef5-4f2a-b0c9-37628be45a17|c18b9354-e752-46ca-a4ff-c32e47a8bad0",
           ""
         ],
         [
-          "courtyards_overlap|339580000|235235000|5a2e9d57-6a9c-49a8-8def-5d3b4d2005f4|c18b9354-e752-46ca-a4ff-c32e47a8bad0",
+          "courtyards_overlap|339630000|235235000|c18b9354-e752-46ca-a4ff-c32e47a8bad0|cda4580e-6e1e-491d-9477-e5e80a5e3830",
           ""
         ],
         [
-          "courtyards_overlap|341705000|235055000|c18b9354-e752-46ca-a4ff-c32e47a8bad0|ecce9983-ec80-433d-8016-eabac85fec0a",
+          "courtyards_overlap|341705000|235005000|c18b9354-e752-46ca-a4ff-c32e47a8bad0|f2f70012-d744-46d2-85a6-f3d135125a60",
           ""
         ],
         [
@@ -103,14 +103,6 @@
         ],
         [
           "npth_inside_courtyard|346150000|223000000|3f12dad9-2396-4e6b-952f-ea74f4f2dbd0|a590566b-172c-4c55-b492-87516aabe708",
-          ""
-        ],
-        [
-          "pth_inside_courtyard|338900000|234600000|15cdd2d8-e847-4797-a550-be993363ec71|c18b9354-e752-46ca-a4ff-c32e47a8bad0",
-          ""
-        ],
-        [
-          "pth_inside_courtyard|338900000|235700000|e9e4c171-7740-427e-bbf4-b1a0bc685451|c18b9354-e752-46ca-a4ff-c32e47a8bad0",
           ""
         ]
       ],
@@ -254,7 +246,7 @@
         0.25,
         0.3,
         0.35,
-        0.5,
+        0.45,
         1.0
       ],
       "tuning_pattern_settings": {
@@ -667,7 +659,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Documents/cm4-baseboard-tpm-module.step",
       "vrml": ""
     },
     "page_layout_descr_file": "kicad-embed://antmicro_worksheet.kicad_wks"
@@ -1076,7 +1068,7 @@
         "uuid": "14d39343-e453-4480-a79e-bc08955afca3"
       }
     ],
-    "used_designators": "MP1-2,TP1-11,R1-12,R326,D1,D305,C1-5,#PWR1-9,#PWR343,#PWR801-810,J1,J801,FD1-2,N1-2,N1001-1002,U1-2",
+    "used_designators": "MP1-2,TP1-20,R1-12,R326,D1,D305,C1-5,#PWR1-9,#PWR343,#PWR801-810,J1,J801,FD1-2,N1-2,N1001-1002,U1-2",
     "variants": []
   },
   "sheets": [
