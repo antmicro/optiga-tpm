@@ -1,3 +1,3 @@
-# CM4 Baseboard TPM Module
+# Optiga TPM Module
 
 Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
