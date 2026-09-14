@@ -106,7 +106,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -43257,10 +43256,11 @@
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
 		(uuid "e4babc6c-bb3d-4050-b44c-921139342586")
-		(at 0.5 0.5)
+		(at 338.85 234.55)
 		(property "Reference" "TP1"
 			(at 0 -0.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9111ca89-892b-4c07-a0ff-094f42b027af")
 			(effects
 				(font
@@ -43437,192 +43437,6 @@
 			(pinfunction "1_1")
 			(pintype "passive")
 			(uuid "233430de-5d32-4512-9f16-5c2011328cec")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "antmicro-footprints:TP_SMD_0.75mm"
-		(layer "F.Cu")
-		(uuid "e9c15414-233e-4e88-8c78-0b31e4ea3ea1")
-		(at 338.9 234.55)
-		(property "Reference" "TP1"
-			(at 0 -0.6 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "42e72644-50ff-4fa6-a896-0860e07bb87d")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "TP_0.75mm_SMD"
-			(at 0 1.2 0)
-			(layer "F.Fab")
-			(uuid "a4f4b2a5-9215-44e9-bd3f-2dc699d7a44c")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9626fb96-b2a9-4645-a0b8-9a4f86c9f2ec")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "SMT test point"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "58c3836d-f504-4883-8806-27b8b69e46c2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9ecf7279-5f8f-45af-aa54-ac6d5821f689")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a4223269-4b2a-4420-90b4-b579222395ab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8aecc4ec-f26e-4b7a-a49c-a990d7f1192b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23502466-fc08-43db-beea-3a31da957ae9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr exclude_from_bom)
-		(stackup
-			(layer "F.Cu")
-			(layer "B.Cu")
-			(layer "User.1")
-			(layer "User.2")
-			(layer "User.3")
-			(layer "User.4")
-			(layer "User.5")
-			(layer "User.6")
-			(layer "User.7")
-			(layer "User.8")
-			(layer "User.9")
-		)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 0.475 0)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "2fb5766c-ec3a-43f2-93fe-4ae1eb84f6ea")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.4 2.7 0)
-			(layer "F.Fab")
-			(uuid "7748b411-c02c-4fe3-8eb3-ad385fdf1019")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.4 3.901 0)
-			(layer "F.Fab")
-			(uuid "bdf2f3d3-7d81-4075-9dce-1afccb048eca")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.4 5.101 0)
-			(layer "F.Fab")
-			(uuid "cd16af2d-7736-4d80-a843-c4722a320c8b")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pad "1" smd circle
-			(at 0 0)
-			(size 0.75 0.75)
-			(layers "F.Cu" "F.Mask")
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "passive")
-			(uuid "4bff7620-4b66-473c-adf4-828a3b4d6fac")
 		)
 		(embedded_fonts no)
 	)
@@ -58690,6 +58504,14 @@
 		(uuid "a02f14fb-26c6-4f25-8788-f1d3af835bbd")
 	)
 	(segment
+		(start 341.08 235.7)
+		(end 342.25 235.7)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Net-(D1-A)")
+		(uuid "4e1070b4-d1cb-4d0f-b8d9-bdb7b1e7b881")
+	)
+	(segment
 		(start 341.879 226.95)
 		(end 341.009 226.95)
 		(width 0.25)
@@ -59056,14 +58878,6 @@
 		(layer "B.Cu")
 		(net "/~{RST}")
 		(uuid "967f491a-c044-497b-9bd2-0ae9a2361ab1")
-	)
-	(segment
-		(start 341.08 235.7)
-		(end 342.25 235.7)
-		(width 0.3)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "4e1070b4-d1cb-4d0f-b8d9-bdb7b1e7b881")
 	)
 	(segment
 		(start 345.473376 229.956624)
