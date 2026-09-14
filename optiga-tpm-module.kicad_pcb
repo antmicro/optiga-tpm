@@ -43256,6 +43256,192 @@
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
+		(uuid "e4babc6c-bb3d-4050-b44c-921139342586")
+		(at 0.5 0.5)
+		(property "Reference" "TP1"
+			(at 0 -0.6 0)
+			(layer "F.SilkS")
+			(uuid "9111ca89-892b-4c07-a0ff-094f42b027af")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TP_0.75mm_SMD"
+			(at 0 1.2 0)
+			(layer "F.Fab")
+			(uuid "2d1c88c9-1ace-4f26-9731-e5f09a13be52")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22d5a96a-f2ca-4566-a410-18aa87abc6ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9508825c-6a65-487e-a2bb-72fe70d35c28")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "afec3be4-29bc-4720-8247-9f25e8d929bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa7c457d-74e3-483b-970b-28513aa9d99e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f3e35ef-440b-47dd-922e-3de5f6d02d64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "661f354e-8e47-450a-95a8-a6aab00344e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/2f2908db-acd2-4789-a1a2-fad870fafbc5")
+		(sheetname "/")
+		(sheetfile "optiga-tpm-module.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr exclude_from_bom)
+		(stackup
+			(layer "F.Cu")
+			(layer "B.Cu")
+			(layer "User.1")
+			(layer "User.2")
+			(layer "User.3")
+			(layer "User.4")
+			(layer "User.5")
+			(layer "User.6")
+			(layer "User.7")
+			(layer "User.8")
+			(layer "User.9")
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center 0 0)
+			(end 0.475 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "449ef4da-aeea-4ca3-8234-9a44fb8227bc")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.4 2.7 0)
+			(layer "F.Fab")
+			(uuid "798b81d1-a91b-4778-8a31-11eeb5c9057c")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.4 3.901 0)
+			(layer "F.Fab")
+			(uuid "c3c1799d-c5ee-4b38-9a89-82f460bb9e07")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.4 5.101 0)
+			(layer "F.Fab")
+			(uuid "869cf74f-6278-452c-bff4-44a64604dee7")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0)
+			(size 0.75 0.75)
+			(layers "F.Cu" "F.Mask")
+			(net "GND")
+			(pinfunction "1_1")
+			(pintype "passive")
+			(uuid "233430de-5d32-4512-9f16-5c2011328cec")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_0.75mm"
+		(layer "F.Cu")
 		(uuid "e9c15414-233e-4e88-8c78-0b31e4ea3ea1")
 		(at 338.9 234.55)
 		(property "Reference" "TP1"
@@ -43359,7 +43545,6 @@
 				)
 			)
 		)
-		(path "/4c79e178-ef27-4152-8945-2f75a92762c3")
 		(sheetname "/")
 		(sheetfile "optiga-tpm-module.kicad_sch")
 		(units
@@ -57673,6 +57858,14 @@
 		(uuid "e4fb57ea-36db-4431-a10d-6fa009c7a19c")
 	)
 	(segment
+		(start 332.1895 228.8105)
+		(end 332.2645 228.8855)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "0b290f81-b07e-4065-a6ab-b146b7e98749")
+	)
+	(segment
 		(start 329.2 232.501)
 		(end 329.179 232.48)
 		(width 0.25)
@@ -57689,8 +57882,16 @@
 		(uuid "1d75a00a-22fb-4975-8ee6-edb605117211")
 	)
 	(segment
-		(start 331.429 231.55)
+		(start 334.1145 228.8645)
 		(end 333.179 229.8)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "22bb9190-0622-4c5c-b6ef-d312f2cc5a14")
+	)
+	(segment
+		(start 331.429 231.55)
+		(end 332.1895 230.7895)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -57754,11 +57955,19 @@
 	)
 	(segment
 		(start 331.429 228.05)
-		(end 333.179 229.8)
+		(end 332.1895 228.8105)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "69e8cb2e-0427-4ed2-a5d4-10aa5c7ea544")
+	)
+	(segment
+		(start 332.3395 228.9605)
+		(end 332.4395 229.0605)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "732c6675-747d-4b5c-bb85-866a5d1a841c")
 	)
 	(segment
 		(start 337.0295 228.02)
@@ -57767,6 +57976,14 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "77580e45-a83a-4de1-bf47-7e5f7f6612c1")
+	)
+	(segment
+		(start 332.2645 228.8855)
+		(end 332.3395 228.9605)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "7d94ffdf-c2e1-48e1-97eb-d7fa0ca2ad57")
 	)
 	(segment
 		(start 338.85 234.55)
@@ -57783,6 +58000,30 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "7faca521-ae26-433f-8cec-baa5eccb95c1")
+	)
+	(segment
+		(start 334.1645 230.7855)
+		(end 334.1145 230.7355)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "8aa4cc32-2ce5-4a23-b2db-b5e710dd272a")
+	)
+	(segment
+		(start 334.1145 230.7355)
+		(end 333.179 229.8)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "8d9ea2c6-5d90-45a6-bb0e-27c0ec02c6e6")
+	)
+	(segment
+		(start 332.4395 229.0605)
+		(end 333.179 229.8)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "8e101f24-a892-47ad-93f9-882952b73d54")
 	)
 	(segment
 		(start 331.429 226.9)
@@ -57809,6 +58050,14 @@
 		(uuid "9cbbaa0c-f747-431e-8c0a-7f5247831c52")
 	)
 	(segment
+		(start 332.1895 230.7895)
+		(end 332.2145 230.7645)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "9da459ac-da76-4ad8-a44a-5fce25d7a9a4")
+	)
+	(segment
 		(start 331.429 227.4)
 		(end 331.429 228.05)
 		(width 0.2)
@@ -57826,7 +58075,7 @@
 	)
 	(segment
 		(start 334.429 228.55)
-		(end 333.179 229.8)
+		(end 334.1395 228.8395)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "GND")
@@ -57842,7 +58091,7 @@
 	)
 	(segment
 		(start 334.929 231.55)
-		(end 333.179 229.8)
+		(end 334.1645 230.7855)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -57889,6 +58138,30 @@
 		(uuid "f169585b-68c1-4861-b0ea-fb99452e906c")
 	)
 	(segment
+		(start 334.1395 228.8395)
+		(end 334.1145 228.8645)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "f6ca9fed-e64d-4127-a2cb-072f19c05494")
+	)
+	(segment
+		(start 332.2145 230.7645)
+		(end 333.1395 229.8395)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "f763eb62-4d19-48f1-a596-6d2f327547aa")
+	)
+	(segment
+		(start 333.1395 229.8395)
+		(end 333.179 229.8)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "fbbb2607-6e54-423a-9ffa-a9e39d93eab5")
+	)
+	(segment
 		(start 336.4995 228.55)
 		(end 337.0295 228.02)
 		(width 0.25)
@@ -57911,6 +58184,30 @@
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "36d80648-7dac-4dbf-b6e4-206f3b17aa7a")
+	)
+	(via
+		(at 333.1395 229.8395)
+		(size 0.5)
+		(drill 0.15)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "4614100a-f994-49e0-b693-e2707f8f45e0")
+	)
+	(via
+		(at 332.2645 228.8855)
+		(size 0.5)
+		(drill 0.15)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "591366a9-bcf9-4a91-9b4d-3145cb9e4756")
+	)
+	(via
+		(at 334.1145 228.8645)
+		(size 0.5)
+		(drill 0.15)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "5b53a3c6-6412-4142-941e-c11ef9318ef5")
 	)
 	(via
 		(at 329.2 233.05)
@@ -57951,6 +58248,22 @@
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "c4804e38-c0fb-4074-aec5-5216d704c837")
+	)
+	(via
+		(at 334.1145 230.7355)
+		(size 0.5)
+		(drill 0.15)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "c9d796e7-db78-450c-8cb1-08e350f0d401")
+	)
+	(via
+		(at 332.2145 230.7645)
+		(size 0.5)
+		(drill 0.15)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "cd666ce8-12a5-46e8-9d25-f1ded65e670b")
 	)
 	(via
 		(at 338.25 234.55)

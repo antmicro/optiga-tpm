@@ -603,50 +603,7 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/SPI.DI": [
-        "50Ohm-se"
-      ],
-      "/SPI.DO": [
-        "50Ohm-se"
-      ],
-      "/SPI.MISO": [
-        "50Ohm-se"
-      ],
-      "/SPI.MISO_R": [
-        "50Ohm-se"
-      ],
-      "/SPI.MOSI": [
-        "50Ohm-se"
-      ],
-      "/SPI.MOSI_R": [
-        "50Ohm-se"
-      ],
-      "/SPI.SCK": [
-        "50Ohm-se"
-      ],
-      "/SPI.SCLK": [
-        "50Ohm-se"
-      ],
-      "/SPI.SCLK_R": [
-        "50Ohm-se"
-      ],
-      "/SPI.~{CS0}": [
-        "50Ohm-se"
-      ],
-      "/SPI.~{CS1}": [
-        "50Ohm-se"
-      ],
-      "/SPI.~{CS}": [
-        "50Ohm-se"
-      ],
-      "/SPI.~{CS}_R": [
-        "50Ohm-se"
-      ],
-      "/SPI{SPI}": [
-        "50Ohm-se"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -1064,7 +1021,7 @@
         "uuid": "14d39343-e453-4480-a79e-bc08955afca3"
       }
     ],
-    "used_designators": "MP1-2,TP1-20,R1-14,R326,D1,D305,C1-5,#PWR1-11,#PWR343,#PWR801-810,J1,J801,FD1-3,N1-2,N1001-1002,U1-2",
+    "used_designators": "#FLG1-2,MP1-2,TP1-20,R1-14,R326,D1,D305,C1-5,#PWR1-12,#PWR343,#PWR801-810,J1,J801,FD1-3,N1-2,N1001-1002,U1-2",
     "variants": []
   },
   "sheets": [
