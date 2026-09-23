@@ -538,7 +538,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "optiga-tpm-module.kicad_pro",
+    "filename": "optiga-tpm.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1016,8 +1016,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "optiga-tpm-module.kicad_sch",
-        "name": "optiga-tpm-module",
+        "filename": "optiga-tpm.kicad_sch",
+        "name": "optiga-tpm",
         "uuid": "14d39343-e453-4480-a79e-bc08955afca3"
       }
     ],
@@ -1027,7 +1027,7 @@
   "sheets": [
     [
       "14d39343-e453-4480-a79e-bc08955afca3",
-      "optiga-tpm-module"
+      "optiga-tpm"
     ]
   ],
   "text_variables": {},

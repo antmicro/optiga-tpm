@@ -6363,7 +6363,7 @@
 			(uuid "fca09797-25eb-4b0c-bb99-38ed28868595")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP2")
 					(unit 1)
@@ -6529,7 +6529,7 @@
 			(uuid "e1274041-dbba-4d49-8893-0b67d83906ee")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R11")
 					(unit 1)
@@ -6666,7 +6666,7 @@
 			(uuid "3e431155-2d92-460f-a568-1bb8ad0cae4e")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP7")
 					(unit 1)
@@ -6842,7 +6842,7 @@
 			(uuid "58a240b4-e776-459a-808c-25445d1bb655")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R3")
 					(unit 1)
@@ -6979,7 +6979,7 @@
 			(uuid "15341b39-f752-485a-b90c-9772c6795479")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP6")
 					(unit 1)
@@ -7243,7 +7243,7 @@
 			(uuid "eb4060e3-1d56-4a4e-82bd-abe1e929a951")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "J1")
 					(unit 1)
@@ -7352,7 +7352,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "MP1")
 					(unit 1)
@@ -7489,7 +7489,7 @@
 			(uuid "90dd32cc-fd0d-440a-89ad-024158ddca19")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP1")
 					(unit 1)
@@ -7599,7 +7599,7 @@
 			(uuid "d5fb2bf5-6c3f-437e-b171-dc7ba4bd5d03")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR02")
 					(unit 1)
@@ -7710,7 +7710,7 @@
 			(uuid "2af295f6-b716-41d8-afee-5550162f8dc7")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR06")
 					(unit 1)
@@ -7892,7 +7892,7 @@
 			(uuid "38c0ff2f-4ee2-40eb-a3f6-165adabba9a2")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C5")
 					(unit 1)
@@ -8068,7 +8068,7 @@
 			(uuid "e0168c8f-6280-4cf0-af9a-cf5b14cd7157")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R8")
 					(unit 1)
@@ -8217,7 +8217,7 @@
 			(uuid "bef22f7b-3557-4052-91df-0225e747b88c")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "D1")
 					(unit 1)
@@ -8328,7 +8328,7 @@
 			(uuid "fc3deff5-0bfa-422d-aa94-9439483b1c71")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR08")
 					(unit 1)
@@ -8438,7 +8438,7 @@
 			(uuid "22565641-fc69-4048-911d-b92e1e56b85b")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR010")
 					(unit 1)
@@ -8549,7 +8549,7 @@
 			(uuid "8a7b5901-8a04-4b32-84a8-ce32a9f5d517")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR07")
 					(unit 1)
@@ -8686,7 +8686,7 @@
 			(uuid "7bbdca26-59d4-453f-a2aa-5ced76d2cf08")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP8")
 					(unit 1)
@@ -8852,7 +8852,7 @@
 			(uuid "4b19dafb-f475-49ba-93b9-121d3ae4db08")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R14")
 					(unit 1)
@@ -8989,7 +8989,7 @@
 			(uuid "9fd61266-6944-4b99-a9a3-242506a5f2ad")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP5")
 					(unit 1)
@@ -9098,7 +9098,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "FD1")
 					(unit 1)
@@ -9210,7 +9210,7 @@
 			(uuid "650a36a0-bedb-42a0-9efd-464ce13802e3")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR09")
 					(unit 1)
@@ -9347,7 +9347,7 @@
 			(uuid "9ffb23c4-f954-4b6a-8c45-71a428e729be")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP4")
 					(unit 1)
@@ -9456,7 +9456,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "FD3")
 					(unit 1)
@@ -9565,7 +9565,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "MP2")
 					(unit 1)
@@ -9644,7 +9644,7 @@
 			(uuid "13378b81-700b-43c8-9de9-ffc4309866a7")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#FLG01")
 					(unit 1)
@@ -9823,7 +9823,7 @@
 			(uuid "5f9b5d13-09dd-4998-861f-470fac9bf29f")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C1")
 					(unit 1)
@@ -9933,7 +9933,7 @@
 			(uuid "dc08d97f-8e03-4005-9294-1623269d7fef")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR03")
 					(unit 1)
@@ -10097,7 +10097,7 @@
 			(uuid "3b77ca5e-56e8-4044-aa12-4d46ddc9ddda")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R12")
 					(unit 1)
@@ -10263,7 +10263,7 @@
 			(uuid "e629966e-79de-4b5b-bd14-acea23b9b90a")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R10")
 					(unit 1)
@@ -10395,7 +10395,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "N2")
 					(unit 1)
@@ -10527,7 +10527,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "N1")
 					(unit 1)
@@ -10703,7 +10703,7 @@
 			(uuid "18ec3223-0114-46bf-a79d-8fa53ff76f46")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R5")
 					(unit 1)
@@ -10782,7 +10782,7 @@
 			(uuid "0f5ece66-2e8d-4e7a-8b78-89c2dcbcfb5e")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#FLG02")
 					(unit 1)
@@ -11003,7 +11003,7 @@
 			(uuid "b8f2e074-4be6-4419-994e-bc2be110b9ba")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "U1")
 					(unit 1)
@@ -11141,7 +11141,7 @@
 			(uuid "abbf9041-239b-4bae-81aa-fb57e4c40ea6")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP11")
 					(unit 1)
@@ -11317,7 +11317,7 @@
 			(uuid "09818d7d-b5d7-41ac-887d-d15de8458562")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R9")
 					(unit 1)
@@ -11493,7 +11493,7 @@
 			(uuid "c4fb4075-dbb6-45b4-86bd-5fb3dad5d097")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R2")
 					(unit 1)
@@ -11659,7 +11659,7 @@
 			(uuid "93033971-8cb2-485e-bb0e-f1dbf2eefbc1")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R13")
 					(unit 1)
@@ -11835,7 +11835,7 @@
 			(uuid "eaac40ae-a791-451b-bead-afef8409a2ed")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R6")
 					(unit 1)
@@ -11945,7 +11945,7 @@
 			(uuid "1cdabaeb-eddd-4c2d-a86d-f00c6b5c155f")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR01")
 					(unit 1)
@@ -12054,7 +12054,7 @@
 			)
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "FD2")
 					(unit 1)
@@ -12165,7 +12165,7 @@
 			(uuid "b8dbdb67-bf1f-4d99-91ca-7193273cf33f")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR05")
 					(unit 1)
@@ -12302,7 +12302,7 @@
 			(uuid "acaa1810-75f6-4698-9062-1a2e5db15452")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP3")
 					(unit 1)
@@ -12478,7 +12478,7 @@
 			(uuid "ae793ade-6a8f-4168-bdde-d51a5507b792")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R4")
 					(unit 1)
@@ -12656,7 +12656,7 @@
 			(uuid "317f75a3-8e67-4db9-86ca-4d0256afdd97")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C4")
 					(unit 1)
@@ -12793,7 +12793,7 @@
 			(uuid "1891e8c8-34aa-4b35-a2a5-d1193714e6e4")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP10")
 					(unit 1)
@@ -12972,7 +12972,7 @@
 			(uuid "d578b5f4-7e24-44d1-a433-7dbeaf76dfaf")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C3")
 					(unit 1)
@@ -13082,7 +13082,7 @@
 			(uuid "942f37a9-64b9-495a-a85a-eb909de30c53")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR04")
 					(unit 1)
@@ -13258,7 +13258,7 @@
 			(uuid "1252a7ae-fbda-43ad-a56f-b82fdb0c3321")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R7")
 					(unit 1)
@@ -13368,7 +13368,7 @@
 			(uuid "cd4ecdb0-d793-4b8d-861e-ba446ead158b")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR011")
 					(unit 1)
@@ -13505,7 +13505,7 @@
 			(uuid "7625cff5-ecaa-4e22-9937-42483d86eb55")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "TP9")
 					(unit 1)
@@ -13684,7 +13684,7 @@
 			(uuid "6ca9404c-262e-40d2-8a18-c271203c86ce")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "C2")
 					(unit 1)
@@ -13860,7 +13860,7 @@
 			(uuid "18a8fd44-9067-4638-a679-d0b4d7affbb1")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "R1")
 					(unit 1)
@@ -13970,7 +13970,7 @@
 			(uuid "5f8a0d12-c7b2-4f9c-93f2-32f07076d6d2")
 		)
 		(instances
-			(project "optiga-tpm-module"
+			(project "optiga-tpm"
 				(path "/14d39343-e453-4480-a79e-bc08955afca3"
 					(reference "#PWR012")
 					(unit 1)

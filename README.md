@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 
-![](img/optiga-tpm-module.png)
+![](img/optiga-tpm.png)
 
 ## Overview
 

@@ -268,7 +268,7 @@
 		)
 		(path "/a8f5f243-ec4b-48b6-a1d5-f015702299c8")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2229,7 +2229,7 @@
 		)
 		(path "/ea472ffe-e6f8-4f7c-8c1a-8f01c65f2d67")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2585,7 +2585,7 @@
 		)
 		(path "/84dfd98d-af1d-402e-8adb-4399ff12049b")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2954,7 +2954,7 @@
 		)
 		(path "/e6c9726d-cde6-4f32-bb66-70c996794263")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10051,7 +10051,7 @@
 		)
 		(path "/d3c76983-9164-4deb-a090-a8e0d6687cb9")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10420,7 +10420,7 @@
 		)
 		(path "/49ada414-7894-4e13-96a7-b63a10bf7f83")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17477,7 +17477,7 @@
 		)
 		(path "/00ba72fa-a3eb-4d93-bf5d-b8226463a425")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17664,7 +17664,7 @@
 		)
 		(path "/d180c6c8-e374-410a-8976-9693de88d244")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17891,7 +17891,7 @@
 		)
 		(path "/24d76a63-bc7f-4e56-a2d3-5e780e9b6291")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18196,7 +18196,7 @@
 		)
 		(path "/6eba9ebb-1176-42bf-a77e-a804fef053f4")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18420,7 +18420,7 @@
 		)
 		(path "/85135846-833b-423b-9215-35523c764d27")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18723,7 +18723,7 @@
 		)
 		(path "/2d92548c-fce7-4ee9-86e1-4b9048121b10")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18948,7 +18948,7 @@
 		)
 		(path "/a29bd955-cc57-4cd6-9eda-9270534b785d")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19277,7 +19277,7 @@
 		)
 		(path "/e0fdfca7-491a-479e-9429-81ca9fd47245")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19464,7 +19464,7 @@
 		)
 		(path "/631d40e5-625f-438e-8e60-4020f38a4f5e")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19651,7 +19651,7 @@
 		)
 		(path "/6d7c24a0-2f49-4f4c-93d1-9e58e1b35565")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19878,7 +19878,7 @@
 		)
 		(path "/f6918cdb-a29a-4019-8abe-7cf68844191a")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26909,7 +26909,7 @@
 		)
 		(path "/75797df8-5d80-49d2-a2ac-381802e5b5fc")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27094,7 +27094,7 @@
 		)
 		(path "/b0cf57ab-714d-49c5-8d75-16e6085fd41e")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27321,7 +27321,7 @@
 		)
 		(path "/db307e0a-21c6-4358-b1d4-3f500d0bf45f")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34354,7 +34354,7 @@
 		)
 		(path "/c8bf9d1f-18d7-49f5-a010-9ed748e0a05b")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34578,7 +34578,7 @@
 		)
 		(path "/634736c0-1e2a-45a7-b12d-14c00e24ebfd")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34934,7 +34934,7 @@
 		)
 		(path "/bf1e0bcb-115b-4315-8d30-c1e7e6a42a78")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35263,7 +35263,7 @@
 		)
 		(path "/1a30902e-9c25-4413-8a2e-89f6acd0b9ec")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35490,7 +35490,7 @@
 		)
 		(path "/b1c5fb83-4aca-4d1f-8218-adfd5fc5634b")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35819,7 +35819,7 @@
 		)
 		(path "/74fdafc8-9f62-4ee6-9924-d8d713ccb369")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36009,7 +36009,7 @@
 		)
 		(path "/8b6a3cae-c389-4c13-adb4-e76009d2a4fc")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37349,7 +37349,7 @@
 		)
 		(path "/4f3b279d-d569-495c-8aee-202bb8c482b8")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40617,7 +40617,7 @@
 		)
 		(path "/1440869a-0ffa-45c5-9e80-1c39773587de")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40922,7 +40922,7 @@
 		)
 		(path "/755b7cee-50ec-40ea-a088-7ce282212ef7")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41159,7 +41159,7 @@
 		)
 		(path "/4b09add3-add5-4c8e-83c4-fd5110b26d6e")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41528,7 +41528,7 @@
 		)
 		(path "/b904bca2-7291-4ded-a740-df058b989ed5")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41858,7 +41858,7 @@
 		)
 		(path "/9f8a2e4c-6b31-4362-b638-5b6c6130e6df")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42844,7 +42844,7 @@
 		)
 		(path "/bfcd8bb6-3eaa-4473-9e23-894071598ea1")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43173,7 +43173,7 @@
 		)
 		(path "/f0e7e0cf-da33-475f-aa03-f5e459f5aab6")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43360,7 +43360,7 @@
 		)
 		(path "/2f2908db-acd2-4789-a1a2-fad870fafbc5")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43587,7 +43587,7 @@
 		)
 		(path "/f815fa07-92e9-4326-9086-462a1ea3141a")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43956,7 +43956,7 @@
 		)
 		(path "/7e208baf-62fd-42d5-a669-06a0b6a695a4")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51013,7 +51013,7 @@
 		)
 		(path "/2bad72b0-b6be-43c3-acab-cd25b2a37568")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51219,7 +51219,7 @@
 		)
 		(path "/2c424398-502b-49b9-bb90-cccf0c5b73c7")
 		(sheetname "/")
-		(sheetfile "optiga-tpm-module.kicad_sch")
+		(sheetfile "optiga-tpm.kicad_sch")
 		(units
 			(unit
 				(name "A")
